@@ -2,8 +2,8 @@
  * Classe Hospital: permet representar la informacio dels pacients 
  * que ocupen els llits d'un hospital.
  * 
- * @author IIP
- * @version Curs 2016/17
+ * @author Gerard
+ * @version beta
  */
 public class Hospital {
     /** Constant que representa el numero maxim de pacients que 
